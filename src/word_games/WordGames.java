@@ -1,7 +1,7 @@
 package word_games;
 
 /**
- * Name: Brandon Smith (put your name here)
+ * Name: Bryce Reeder
  * Date: 10-10-24 (put date of last revision here)
  * Description: This is a collection of methods for a word game that
  * people can play
